@@ -1,4 +1,2 @@
-MKE_2012_Parking_Violations
-===========================
-
-All parking violations issued in 2012 in the City of Milwaukee
+# City of Milwauke Parking Violations - 2012 Edition
+This data was obtained via opens records request in the Spring of 2013. The source of the data is the City of Milwaukee Department of Public Works.
